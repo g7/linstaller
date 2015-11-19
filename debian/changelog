@@ -1,3 +1,9 @@
+linstaller (7.0.6+di2-1) jessie; urgency=medium
+
+  * [packaging] Remove bricks from the -base module set.
+
+ -- Eugenio Paolantonio (g7) <me@medesimo.eu>  Thu, 19 Nov 2015 21:46:50 +0100
+
 linstaller (7.0.6+di1-1) jessie; urgency=medium
 
   * [userhost] Get user-defaults-groups from preseed
