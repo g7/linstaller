@@ -1,3 +1,11 @@
+linstaller (7.0.6+di1-1) jessie; urgency=medium
+
+  * [userhost] Get user-defaults-groups from preseed
+  * [userhost] Check additional user groups from the preseed.
+  * [packaging] Changed rules for di
+
+ -- Eugenio Paolantonio (g7) <me@medesimo.eu>  Thu, 19 Nov 2015 20:04:25 +0100
+
 linstaller (7.0.6-1) unstable; urgency=medium
 
   * [partdisks] library: Run partprobe before calling mkfs.
