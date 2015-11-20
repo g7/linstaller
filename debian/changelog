@@ -1,3 +1,10 @@
+linstaller (7.0.6+di3-1) jessie; urgency=medium
+
+  * [userhost] Get seeds from self.moduleclass.settings
+  * [linstaller] More distribution-agnostic .desktop file
+
+ -- Eugenio Paolantonio (g7) <me@medesimo.eu>  Fri, 20 Nov 2015 18:29:57 +0100
+
 linstaller (7.0.6+di2-1) jessie; urgency=medium
 
   * [packaging] Remove bricks from the -base module set.
