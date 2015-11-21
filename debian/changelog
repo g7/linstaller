@@ -1,3 +1,9 @@
+linstaller (7.0.6+di4-1) jessie; urgency=medium
+
+  * [finish] Create missing snakeoil SSL certs
+
+ -- Eugenio Paolantonio (g7) <me@medesimo.eu>  Sat, 21 Nov 2015 19:59:21 +0100
+
 linstaller (7.0.6+di3-1) jessie; urgency=medium
 
   * [userhost] Get seeds from self.moduleclass.settings
